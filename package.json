@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "- Follow the instructions from the [manual setup](https://vite.dev/guide/#manual-installation) from docs.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "vite"
   },
@@ -11,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "vite": "^5.4.11"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.14.5"
   }
 }
