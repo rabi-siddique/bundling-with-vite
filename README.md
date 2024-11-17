@@ -1,0 +1,1 @@
+- Follow the instructions from the [manual setup](https://vite.dev/guide/#manual-installation) from docs.
