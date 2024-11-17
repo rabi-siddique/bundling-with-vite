@@ -11,5 +11,3 @@ document.querySelector('#logoContainer').innerHTML = `
     </a>
   </div>
 `;
-
-setupCounter(document.querySelector('#counter'));
