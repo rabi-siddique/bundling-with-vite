@@ -1,3 +1,4 @@
+import './logoContainer';
 import Swal from 'sweetalert2';
 
 document.getElementById('todo-form').addEventListener('submit', (event) => {
